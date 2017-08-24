@@ -1230,6 +1230,7 @@ $Definition['Share'] = 'Поделиться';
 $Definition['Shared Accounts'] = 'Общие учетные записи';
 $Definition['she'] = 'она';
 $Definition['Shown only on mobile'] = 'Показывать только на мобильных устройствах';
+$Definition['Show popular tags'] = 'Показать популярные тэги';
 $Definition['Show previous quotes'] = '&raquo; показать предыдущие ценовые предложения';
 $Definition['Show unfollowed categories'] = 'Показать неотслеживаемые разделы';
 $Definition['Sign-In URL'] = 'URL входа';
